@@ -1,0 +1,4 @@
+// Placeholder for ingest handler logic
+export function ingestHandler(data: any) {
+  // Implement handler logic here
+}
