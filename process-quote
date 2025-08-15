@@ -1,0 +1,4 @@
+// Background job with placeholders
+export function processQuote(quoteData: any) {
+  // Implement job logic here
+}
