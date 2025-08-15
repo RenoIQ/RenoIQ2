@@ -1,0 +1,4 @@
+export default function handler(req, res) {
+  // Accept file, create job, upload to storage, fire event (placeholder)
+  res.status(200).json({ message: 'File received, job created' });
+}
